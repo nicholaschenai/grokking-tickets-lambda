@@ -9,7 +9,7 @@ This work explores the role of the lottery ticket hypothesis in the process of '
 [[Repo](https://github.com/gouki510/Grokking-Tickets)]
 [[Paper](https://arxiv.org/abs/2310.19470)]
 
-The report is available under `Grokking_Ticket_Analysis_Final.pdf` and the graphs are available in the `html` folder
+The report is available under `Grokking_Ticket_Analysis_Final.pdf` and the graphs are available in the `html` and `ticket_plots` folder
 
 This mini project was done in 10+ hours as part of an interview process.
 

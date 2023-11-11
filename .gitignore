@@ -138,6 +138,5 @@ dmypy.json
 # my stuff
 large_files/
 saved_runs_ticket/
-ticket_plots/
 wandb/
 *Zone.Identifier
