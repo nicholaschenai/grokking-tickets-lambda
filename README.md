@@ -17,7 +17,7 @@ This work explores the role of the lottery ticket hypothesis in the process of '
 [[Repo](https://github.com/timaeus-research/devinterp)]
 [[Notebook](https://github.com/timaeus-research/devinterp/blob/main/examples/grokking.ipynb)]
 
-The report is available under `Lambda_Grokking_Ticket_Analysis.pdf` and the graphs are available in the `html` and `ticket_plots` folder
+The report is available under `report.pdf` and the graphs are available in the `html` and `ticket_plots` folder
 
 This mini project was done in ~16 hours as part of an interview process.
 
